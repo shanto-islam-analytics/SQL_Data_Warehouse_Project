@@ -164,13 +164,13 @@ The final results give stakeholders the key numbers they need to make confident,
 ## 🗺️ Project Roadmap
 
 - [x] Create the repository and folder structure
-- [ ] Understand the ERP and CRM source data
-- [ ] Import the CSV files into SQL Server
-- [ ] Clean the data and fix quality issues
-- [ ] Combine both sources into one data model
-- [ ] Write documentation for the data model
-- [ ] Run SQL analysis on customers, products, and sales
-- [ ] Add tests and final project summary
+- [x] Understand the ERP and CRM source data
+- [x] Import the CSV files into SQL Server
+- [x] Clean the data and fix quality issues
+- [x] Combine both sources into one data model
+- [x] Write documentation for the data model
+- [x] Run SQL analysis on customers, products, and sales
+- [x] Add tests and final project summary
 
 ---
 
